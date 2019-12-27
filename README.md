@@ -1,4 +1,4 @@
-# EUnitAndroid
+# EUnitTestActivity
 An Android UI for displaying [EUnit](https://github.com/remobjects/EUnit) test results, similar to [TableViewTestListener](https://github.com/remobjects/EUnit/blob/master/Sources/iOS/TableViewTestListener.pas) for iOS.
 
 To use EUnitTestActivity in your project, simply create an Android EUnit Test Application project and extend EUnitTestActivity instead of extending Activity. For example,
